@@ -1,0 +1,1 @@
+In 2019, I created the *Hwa Chong Institution: Open House 2019 Mobile App*.
