@@ -1,0 +1,15 @@
+[
+    {
+        "year": 2020,
+        "title": "Intelllex",
+        "body": "7-month internship at a lawtech startup as a software engineer intern.",
+        "color": "blue",
+        "tags": ["web development", "web scraping", "data science", "JavaScript", "Python", "React", "Redux", "scrapy"]
+    },
+    {
+        "year": 2017,
+        "body": "5-week internship at a coding school as a teaching assistant.",
+        "title": "SG Code Campus",
+        "tags": ["teaching", "Python"]
+    }
+]

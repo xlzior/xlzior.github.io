@@ -1,0 +1,35 @@
+[
+    {
+        "year": 2018,
+        "title": "Code::XtremeApps:: (CXA) Hackathon 2018",
+        "subtitle": "3rd place",
+        "body": "Team leader of a 3-person team to develop a web app using React to aid the police in investigating incidents such as terrorist attacks. The app aggregates data from different APIs into a single dashboard and analyses the data using machine learning algorithms in Python."
+    },
+    {
+        "year": 2017,
+        "title": "20th National Olympiad in Informatics (NOI)",
+        "subtitle": "Bronze medal",
+        "body": "Achieved a bronze medal in Singapore’s computing olympiad using C++."
+    },
+    {
+        "year": 2017,
+        "title": "RoboCup Singapore Open - RCJ Soccer (Heavyweight)",
+        "subtitle": "2nd place (overall)"
+    },
+    {
+        "year": 2016,
+        "title": "RoboCup Singapore Open - RCJ Soccer (Lightweight)",
+        "subtitle": "1st place (overall)"
+    },
+    {
+        "year": 2015,
+        "title": "Hackathon @ School of Science and Technology",
+        "subtitle": "1st place (Open category)",
+        "body": "Part of a 4-person team to develop a web app using HTML, CSS and JavaScript to connect people with similar interests in communities and coordinate events and activities."
+    },
+    {
+        "year": 2015,
+        "title": "RoboCup Singapore Open - RCJ Rescue Line",
+        "subtitle": "2nd place (local)"
+    }
+]
