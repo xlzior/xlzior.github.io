@@ -2,9 +2,9 @@ import React from 'react';
 import { Timeline, Avatar, Typography } from 'antd';
 import { Link } from 'react-router-dom';
 
-import TagsList from './TagsList';
+import TagsList from '../TagsList';
 
-import './Timeline.css';
+import './index.css';
 
 const OptionalLink = ({ to, children }) => (
   to ?
@@ -22,7 +22,7 @@ const TimelineList = ({ data, isProject = false }) => {
           key={id}
           label={year}
         >
-          {icon ? <Avatar size="large" src={require('../data/assets/' + icon)} /> : null}
+          {icon ? <Avatar size="large" src={require('../../data/assets/' + icon)} /> : null}
           <h3>
             <OptionalLink to={isProject ? `/projects/${id}` : null}>
               {title}{subtitle ? <span className="subtitle"> - {subtitle}</span> : ''}

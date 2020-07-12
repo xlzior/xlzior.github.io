@@ -2,7 +2,7 @@ import React from 'react';
 import { PageHeader } from 'antd';
 import { Link } from "react-router-dom";
 
-import './NavigationBar.css';
+import './index.css';
 
 const NavigationBar = () => (
   <nav>
