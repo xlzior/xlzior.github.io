@@ -6,7 +6,8 @@
         "title": "A Garden Campus Mobile App",
         "shortTitle": "A Garden Campus",
         "body": "Part of a 2-person team to develop a mobile app in React Native for the “Garden Campus” initiative. The app helped to document the school’s biodiversity and guide students on a biodiversity trail around campus. (http://hcgarden.hci.edu.sg/)",
-        "tags": ["app development", "JavaScript", "React Native"]
+        "tags": ["app development", "JavaScript", "React Native"],
+        "gallery": ["1home.png", "2maptrail.png", "3overview.png", "4map bird.png", "5ff.png", "6fflist.png", "7ffentry.png"]
     },
     "2019-open-house": {
         "id": "2019-open-house",
@@ -15,7 +16,8 @@
         "title": "Open House 2019 Mobile App",
         "shortTitle": "Open House 2019",
         "body": "Part of a 2-person team to develop a mobile app in React Native to provide visitors and prospective students with information about the school’s programmes and open house schedule. (https://infocommsociety.com/oha_page/)",
-        "tags": ["app development", "JavaScript", "React Native"]
+        "tags": ["app development", "JavaScript", "React Native"],
+        "gallery": ["home.png",  "about.png", "map.png", "tour routes.png", "schedule.png", "CCA.png", "curriculum.png", "FAQ.png"]
     },
     "2018-ecg-fair": {
         "id": "2018-ecg-fair",
@@ -24,7 +26,8 @@
         "title": "Education and Career Guidance Fair 2018 Mobile App",
         "shortTitle": "ECG Fair 2018",
         "body": "Part of a 2-person team to develop a mobile app in React Native as a companion app for students to refer to university information and booths.",
-        "tags": ["app development", "JavaScript", "React Native"]
+        "tags": ["app development", "JavaScript", "React Native"],
+        "gallery": ["1.png", "2.png", "3.png", "4.png", "5.png", "6.png", "7.png", "8.png"]
     },
     "telegram-bot": {
         "id": "telegram-bot",
@@ -33,6 +36,7 @@
         "title": "Class Timetable Telegram Chatbot",
         "shortTitle": "Telegram Bot",
         "body": "Self-learned and developed a Telegram bot in Python for use as a personal assistant in the class group chat to help my classmates manage their timetables and homework.",
-        "tags": ["Python", "Google App Engine"]
+        "tags": ["Python", "Google App Engine"],
+        "gallery": []
     }
 }

@@ -5,12 +5,13 @@ import ReactMarkdown from 'react-markdown';
 
 import Page from '../components/Page';
 import TagsList from '../components/TagsList';
-import projects from '../data/projects.json';
+import PhotoGallery from '../components/PhotoGallery';
 
+import projects from '../data/projects.json';
 
 const ProjectWriteup = () => {
   const { projectId } = useParams();
-  const {year, title, icon, tags} = projects[projectId];
+  const {year, title, icon, tags, gallery} = projects[projectId];
   const [writeup, setWriteup] = useState('');
 
   useEffect(() => {
@@ -20,8 +21,9 @@ const ProjectWriteup = () => {
   }, [projectId])
 
   return (
-    <Page title={title} subTitle={year} avatar={{src: require('../data/assets/' + icon), size: 50}}>
+    <Page title={title} subTitle={year} avatar={{src: require(`../data/assets/${icon}`), size: 50}}>
       <TagsList tags={tags} />
+      <PhotoGallery photos={gallery.map(src => require(`../data/assets/${projectId}/${src}`))} />
       <article>
         <ReactMarkdown
           source={writeup}
