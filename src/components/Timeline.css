@@ -1,0 +1,16 @@
+.ant-timeline.ant-timeline-label .ant-timeline-item-label {
+  width: calc(var(--timeline-baseline) - 12px);
+}
+
+.ant-timeline.ant-timeline-label .ant-timeline-item-tail {
+  left: var(--timeline-baseline);
+}
+
+.ant-timeline.ant-timeline-label .ant-timeline-item-head {
+  left: var(--timeline-baseline);
+}
+
+.ant-timeline.ant-timeline-label .ant-timeline-item-left .ant-timeline-item-content {
+  left: calc(var(--timeline-baseline) - 4px);
+  width: calc(100% - var(--timeline-baseline) - 14px);
+}

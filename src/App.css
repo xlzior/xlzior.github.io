@@ -1,38 +1,86 @@
+@import '~antd/dist/antd.css';
+
+:root {
+  --timeline-baseline: 10%;
+}
+
 .App {
-  text-align: center;
+  padding: 10px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.page {
+  padding: 15px;
+  margin: 0 auto;
+  max-width: 750px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+/* HTML Elements */
+
+img {
+  max-width: 100%;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+li h3 {
+  display: inline-block;
+  margin-bottom: 3px;
+}
+
+p {
+  font-size: 1rem;
+}
+
+code {
+  background-color: #e6f7ff;
+  border: 1px solid #bae7ff;
+  border-radius: 3px;
+  padding: 2px 5px;
+  font-size: 0.95rem;
+}
+
+article {
+  margin-top: 10px;
+}
+
+/* Components */
+
+.icon {
+  height: 150px;
+  width: 150px;
+  border-radius: 10px;
+}
+
+.subtitle {
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.ant-tag {
+  margin-bottom: 3px;
+}
+
+/* Pages */
+
+.page-header {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.projects-list {
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  flex-wrap: wrap;
+  justify-content: space-between;
 }
 
-.App-link {
-  color: #61dafb;
+.project-item {
+  text-align: center;
+  border-radius: 10px;
+  margin: 20px 10px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.project-item:hover {
+  box-shadow: 0 0 10px 1px #DADADA;
+}
+
+.ant-avatar {
+  margin-right: 7px;
+  margin-bottom: 4px;
 }
