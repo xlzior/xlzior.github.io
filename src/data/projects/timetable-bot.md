@@ -1,6 +1,6 @@
 In 2015, I noticed that it was rather inconvenient for my classmates to check the timetable. Our timetable was split into even and odd weeks, and we often forgot which timetable we were using that week. We also didn't have our hardcopy timetable with us all the time. I endeavoured to solve this by creating an automated chatbot on the messaging app Telegram for us to check what lessons we had that day. Over the next 3 years, I continued to add new features to the bot. This was one of my first major projects along my programming journey.
 
-The chatbot can be accessed [here](https://telegram.me/threeoheight_bot).
+Try it out yourself [here](https://telegram.me/threeoheight_bot).
 
 ## Features
 

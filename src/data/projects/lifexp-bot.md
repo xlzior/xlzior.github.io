@@ -2,8 +2,8 @@ Journalling has many benefits, but it is not always an easy process. We often co
 
 LifeXP combines gamification and journalling into a chatbot. It aims to provide a safe, fun and convenient way for you to pen down your thoughts and even organise them for browsing later. At the end of your journalling sessions, you are rewarded with experience points to reward you for your effort.
 
-[Full demo](https://github.com/xlzior/lifexp-bot/blob/master/demo.md)
+Try it out yourself [here](https://telegram.me/lifexp_bot)!
 
-I submitted this project for the MindfulHacks hackathon and achieved 3rd place.
+[Full demo of features](https://github.com/xlzior/lifexp-bot/blob/master/demo.md)
 
-[Hackathon submission on DevPost](https://devpost.com/software/lifexp-gamified-journalling-chatbot)
+I also submitted this project for the MindfulHacks hackathon and achieved 3rd place ([Hackathon submission on DevPost](https://devpost.com/software/lifexp-gamified-journalling-chatbot)).
