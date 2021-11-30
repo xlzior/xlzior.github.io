@@ -1,4 +1,14 @@
 {
+    "lifexp-bot": {
+        "id": "lifexp-bot",
+        "year": "2021",
+        "icon": "lifexp-bot/lifexp-bot.png",
+        "title": "LifeXP: Gamified Journalling Chatbot",
+        "shortTitle": "LifeXP",
+        "body": "LifeXP provides a safe, fun and convenient way for you to journal about your thoughts and emotions. After reflecting, it rewards you with XP for your effort.",
+        "tags": ["TypeScript", "Node.js", "Postgresql", "Telegram Bot API", "Heroku"],
+        "gallery": ["1basic.png", "2quest1.png", "2quest2.png", "2quest3.png", "3achievement.png"]
+    },
     "2019-garden-campus": {
         "id": "2019-garden-campus",
         "year": "2019",
