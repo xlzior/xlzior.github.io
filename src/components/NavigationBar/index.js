@@ -13,10 +13,6 @@ const NavigationBar = () => (
         subTitle="web/app developer"
       />
     </Link>
-    <ul>
-      <li><Link to="/resume">Resume</Link></li>
-      <li><Link to="/projects">Projects</Link></li>
-    </ul>
   </nav>
 );
 
