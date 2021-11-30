@@ -29,12 +29,12 @@
         "tags": ["app development", "JavaScript", "React Native"],
         "gallery": ["1.png", "2.png", "3.png", "4.png", "5.png", "6.png", "7.png", "8.png"]
     },
-    "telegram-bot": {
-        "id": "telegram-bot",
+    "timetable-bot": {
+        "id": "timetable-bot",
         "year": "2015 - 2017",
-        "icon": "telegram-bot/telegram-bot-icon.png",
+        "icon": "timetable-bot/timetable-bot-icon.png",
         "title": "Class Timetable Telegram Chatbot",
-        "shortTitle": "Telegram Bot",
+        "shortTitle": "Timetable Bot",
         "body": "Self-learned and developed a Telegram bot in Python for use as a personal assistant in the class group chat to help my classmates manage their timetables and homework.",
         "tags": ["Python", "Google App Engine"],
         "gallery": []
