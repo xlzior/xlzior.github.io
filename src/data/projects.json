@@ -2,7 +2,7 @@
     "2019-garden-campus": {
         "id": "2019-garden-campus",
         "year": "2019",
-        "icon": "garden-campus-icon.png",
+        "icon": "2019-garden-campus/garden-campus-icon.png",
         "title": "A Garden Campus Mobile App",
         "shortTitle": "A Garden Campus",
         "body": "Part of a 2-person team to develop a mobile app in React Native for the “Garden Campus” initiative. The app helped to document the school’s biodiversity and guide students on a biodiversity trail around campus. (http://hcgarden.hci.edu.sg/)",
@@ -12,7 +12,7 @@
     "2019-open-house": {
         "id": "2019-open-house",
         "year": "2019",
-        "icon": "open-house-icon.png",
+        "icon": "2019-open-house/open-house-icon.png",
         "title": "Open House 2019 Mobile App",
         "shortTitle": "Open House 2019",
         "body": "Part of a 2-person team to develop a mobile app in React Native to provide visitors and prospective students with information about the school’s programmes and open house schedule. (https://infocommsociety.com/oha_page/)",
@@ -22,7 +22,7 @@
     "2018-ecg-fair": {
         "id": "2018-ecg-fair",
         "year": "2018",
-        "icon": "ecg-fair-icon.png",
+        "icon": "2018-ecg-fair/ecg-fair-icon.png",
         "title": "Education and Career Guidance Fair 2018 Mobile App",
         "shortTitle": "ECG Fair 2018",
         "body": "Part of a 2-person team to develop a mobile app in React Native as a companion app for students to refer to university information and booths.",
