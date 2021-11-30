@@ -22,9 +22,10 @@ const homeBreadcrumb = {
 
 const generateBreadcrumb = () => [
   homeBreadcrumb,
-  ...window.location.pathname
+  ...window.location.hash
   .split('/')
   .filter(Boolean)
+  .filter(str => str !== '#')
   .map((path, idx, arr) => ({
     path: '/' + arr.slice(0, idx + 1).join('/'),
     breadcrumbName: titleize(path.replace(/-/g, ' '))

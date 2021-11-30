@@ -37,7 +37,7 @@ const getTagColour = name => {
 const TagsList = ({tags = []}) => (
   <div className="tags-list">
     {tags.map(name => (
-      <Tag color={getTagColour(name)}>{name}</Tag>
+      <Tag color={getTagColour(name)} key={name}>{name}</Tag>
     ))}
   </div>
 )
