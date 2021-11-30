@@ -10,18 +10,15 @@ import projects from '../data/projects.json';
 
 const Resume = () => (
   <Page title="Resume">
-    <p>My name is Wen Jun. I started self-learning programming in 2014 and since then, I've picked up Python and JavaScript.</p>
+    <p>Hello! I'm Wen Jun. I picked up programming on my own in 2014 and have been hooked ever since. I enjoy using technology to create things to help people in their daily lives.</p>
 
     <h2>Work Experience</h2>
     <Timeline data={work} />
 
-    <h2>Programming Experience</h2>
-    <p>Proficiencies: Python, HTML, CSS, JavaScript (React, React Native)</p>
-
-    <h3><Link to="/projects">Projects</Link></h3>
+    <h2><Link to="/projects">Projects</Link></h2>
     <Timeline data={projects} isProject />
 
-    <h3>Competitions</h3>
+    <h2>Competitions</h2>
     <Timeline data={competitions} />
   </Page>
 );

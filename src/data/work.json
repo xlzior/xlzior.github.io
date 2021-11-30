@@ -1,9 +1,30 @@
 [
     {
+        "year": 2021,
+        "title": "CS1101S Programming Methodology Teaching Assistant",
+        "body": "Teaching assistant for NUS Year 1 Programming Methodology module for 1 semester",
+        "color": "green",
+        "tags": ["teaching", "JavaScript"]
+    },
+    {
+        "year": 2021,
+        "title": "Intelllex",
+        "body": "3-month internship at a lawtech startup as a software engineer intern.",
+        "color": "green",
+        "tags": ["web development", "JavaScript", "Python", "React", "Redux", "scrapy"]
+    },
+    {
+        "year": "2020 - 2021",
+        "title": "NUS IndustryConnect App",
+        "body": "10-month team project to develop a web application for the school",
+        "color": "green",
+        "tags": ["web development", "JavaScript", "React", "Redux"]
+    },
+    {
         "year": 2020,
         "title": "Intelllex",
         "body": "7-month internship at a lawtech startup as a software engineer intern.",
-        "color": "blue",
+        "color": "green",
         "tags": ["web development", "web scraping", "data science", "JavaScript", "Python", "React", "Redux", "scrapy"]
     },
     {
