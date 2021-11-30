@@ -1,0 +1,13 @@
+.page-wrapper {
+  position: relative;
+}
+
+.ant-affix, .ant-anchor-wrapper {
+  position: absolute;
+  top: 60px;
+  left: 20px;
+}
+
+.spacer {
+  height: 100px;
+}

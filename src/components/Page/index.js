@@ -4,6 +4,8 @@ import { HomeOutlined } from '@ant-design/icons';
 import { titleize } from 'inflection';
 import { Link } from 'react-router-dom';
 
+import "./index.css";
+
 const itemRender = (route, params, routes, paths) => {
   const last = routes.indexOf(route) === routes.length - 1;
   return last ? (
@@ -30,7 +32,8 @@ const generateBreadcrumb = () => [
 ];
 
 const Page = ({title, subTitle="", avatar, children}) => (
-  <main className="page">
+  <div className="page-wrapper">
+    <main className="page">
     <PageHeader
       className="page-header"
       title={title}
@@ -40,6 +43,7 @@ const Page = ({title, subTitle="", avatar, children}) => (
     />
     {children}
   </main>
+  </div>
 )
 
 export default Page;
