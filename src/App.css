@@ -1,7 +1,7 @@
 @import '~antd/dist/antd.css';
 
 :root {
-  --timeline-baseline: 10%;
+  --timeline-baseline: 12%;
 }
 
 .App {
