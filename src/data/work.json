@@ -1,36 +1,67 @@
 [
-    {
-        "year": "Aug-Nov 2021",
-        "title": "CS1101S Programming Methodology Teaching Assistant",
-        "body": "1-semester part-time job as a teaching assistant for the NUS Year 1 Programming Methodology module",
-        "color": "green",
-        "tags": ["teaching", "JavaScript"]
-    },
-    {
-        "year": "May-Jul 2021",
-        "title": "Intelllex",
-        "body": "3-month internship at a lawtech startup as a software engineer intern",
-        "color": "green",
-        "tags": ["web development", "JavaScript", "Python", "React", "Redux", "scrapy"]
-    },
-    {
-        "year": "Oct 2020-Jul 2021",
-        "title": "NUS IndustryConnect App",
-        "body": "10-month team project to develop a web application for the school",
-        "color": "green",
-        "tags": ["web development", "JavaScript", "React", "Redux"]
-    },
-    {
-        "year": "Jan-Jul 2020",
-        "title": "Intelllex",
-        "body": "7-month internship at a lawtech startup as a software engineer intern",
-        "color": "green",
-        "tags": ["web development", "web scraping", "data science", "JavaScript", "Python", "React", "Redux", "scrapy"]
-    },
-    {
-        "year": "Dec 2017",
-        "body": "5-week internship at a coding school as a teaching assistant",
-        "title": "SG Code Campus",
-        "tags": ["teaching", "Python"]
-    }
+  {
+    "year": "May-Jul 2022",
+    "title": "Shopee - Software Engineer Intern",
+    "body": "3-month internship as a software engineer intern",
+    "color": "green",
+    "tags": [
+      "web development",
+      "TypeScript",
+      "React",
+      "Cypress",
+      "Playwright",
+      "npm",
+      "GitLab CI"
+    ]
+  },
+  {
+    "year": "Aug-Nov 2021",
+    "title": "CS1101S Programming Methodology - Teaching Assistant",
+    "body": "1-semester part-time job as a teaching assistant for the NUS Year 1 Programming Methodology module",
+    "color": "green",
+    "tags": ["teaching", "JavaScript"]
+  },
+  {
+    "year": "May-Jul 2021",
+    "title": "Intelllex - Software Engineer Intern",
+    "body": "3-month internship at a lawtech startup as a software engineer intern",
+    "color": "green",
+    "tags": [
+      "web development",
+      "JavaScript",
+      "Python",
+      "React",
+      "Redux",
+      "scrapy"
+    ]
+  },
+  {
+    "year": "Oct 2020-Jul 2021",
+    "title": "NUS IndustryConnect App - Frontend Developer",
+    "body": "10-month team project to develop a web application for the school",
+    "color": "green",
+    "tags": ["web development", "JavaScript", "React", "Redux"]
+  },
+  {
+    "year": "Jan-Jul 2020",
+    "title": "Intelllex - Software Engineer Intern",
+    "body": "7-month internship at a lawtech startup as a software engineer intern",
+    "color": "green",
+    "tags": [
+      "web development",
+      "web scraping",
+      "data science",
+      "JavaScript",
+      "Python",
+      "React",
+      "Redux",
+      "scrapy"
+    ]
+  },
+  {
+    "year": "Dec 2017",
+    "body": "5-week internship at a coding school as a teaching assistant",
+    "title": "SG Code Campus - Teaching Assistant",
+    "tags": ["teaching", "Python"]
+  }
 ]
